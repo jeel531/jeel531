@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jeel Vaghani (જીલ વાઘાણી) 👋
 
-<!--
-**jeel531/jeel531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official profile of **Jeel Vaghani** — Business Developer, Entrepreneur & Public Figure based in Gujarat, India.
 
-Here are some ideas to get you started:
+🌐 **Official Website**: [https://jeel531.github.io](https://jeel531.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 About Me
+- 💼 **Profession**: Business Developer & Creative Entrepreneur
+- 📍 **Location**: Gujarat, India
+- 🎂 **Born**: April 23, 2003
+- 🎬 **Film Project**: [Jeel Vaghani: The Sultan](https://jeel531.github.io/movie.html)
+
+---
+
+## 🔗 Connect With Me
+- 🌐 **Portfolio**: [jeel531.github.io](https://jeel531.github.io)
+- 📸 **Instagram**: [@vaghani_01](https://www.instagram.com/vaghani_01/)
+- 💻 **GitHub**: [@jeel531](https://github.com/jeel531)
+
+---
+*Verified Public Figure & Official Profile — Gujarat, India*
